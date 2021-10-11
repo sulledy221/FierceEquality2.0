@@ -1,3 +1,34 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
 * {
-  background-color: darkseagreen;
+  background-color: rgb(83, 83, 83);
+  font-family: "Didact Gothic", sans-serif;
+}
+
+.link {
+  color: darkseagreen;
+  margin-right: 45px;
+  font-size: 35px;
+  font-family: "Righteous", cursive;
+  background-color: darkslategray;
+  padding: 10px;
+  list-style-type: none;
+}
+
+.link-div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: darkslategray;
+  height: 110px;
+  width: 100%;
+}
+
+.footer {
+  padding-top: 100%;
+  font-size: 25px;
+  color: aliceblue;
 }

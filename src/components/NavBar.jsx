@@ -1,13 +1,27 @@
 import React from "react";
 import "./all.css";
-import { Link } from "react-router-dom";
+import { BrowserRouter, Link } from "react-router-dom";
 
 export default function NavBar() {
   return (
-    <div>
-      <Link to="/">Home</Link>
-      <Link to="/Emergency">Emergency</Link>
-      <Link to="/About">About</Link>
-    </div>
+    <BrowserRouter>
+      <div className="link-div">
+        <li className="link">
+          <Link className="link" to="/">
+            Fierce Equality
+          </Link>
+        </li>
+        <li className="link">
+          <Link className="link" to="/emergency">
+            Emergency
+          </Link>
+        </li>
+        <li className="link">
+          <Link className="link" to="/about">
+            About
+          </Link>
+        </li>
+      </div>
+    </BrowserRouter>
   );
 }
