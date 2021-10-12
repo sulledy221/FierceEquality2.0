@@ -1,7 +1,7 @@
 import Footer from "./components/Footer";
 import NavBar from "./components/NavBar";
 import HomePage from "./components/HomePage";
-import * as flags from "./components/flags";
+// import * as flags from "./components/flags";
 
 function App() {
   return (
@@ -9,7 +9,6 @@ function App() {
       <NavBar />
       <HomePage />
       <Footer />
-      <flags></flags>
     </div>
   );
 }
