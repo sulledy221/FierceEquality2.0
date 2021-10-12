@@ -35,9 +35,16 @@ body {
 
 /* Home page code */
 
-.div-flag {
+.img-flag {
   height: 100px;
-  background: chartreuse;
   display: flex;
   margin-top: 30px;
+  margin-left: 40px;
+  border: 5px solid;
+  border-radius: 100px;
+}
+
+.list-flag {
+  list-style-type: none;
+  justify-content: center;
 }
