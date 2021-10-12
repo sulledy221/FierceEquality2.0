@@ -6,7 +6,7 @@ body {
 }
 
 * {
-  background-color: rgb(156, 156, 156);
+  background-color: rgb(179, 121, 233);
   font-family: "Didact Gothic", sans-serif;
   font-size: 30px;
 }
@@ -15,28 +15,26 @@ body {
 
 .link {
   color: rgb(0, 0, 0);
-  margin-right: 45px;
+  margin-right: 75px;
   font-size: 35px;
   font-family: "Righteous", cursive;
-  background-color: rgb(170, 255, 255);
-  padding: 10px;
+  background-color: rgb(117, 182, 74);
   list-style-type: none;
+  text-decoration: none;
 }
 
 .link-div {
   display: flex;
   align-items: center;
-  justify-content: center;
-  background-color: rgb(170, 255, 255);
-  height: 110px;
-  width: 100%;
+  background-color: rgb(255, 241, 39);
+  height: 90px;
 }
 
 .img-flag {
   height: 100px;
   display: flex;
   margin-top: 30px;
-  margin-left: 40px;
+  margin-left: 25px;
   border: 5px solid;
   border-radius: 100px;
 }
@@ -45,14 +43,13 @@ body {
   list-style-type: none;
   justify-content: center;
   border-bottom: 3px solid;
-  padding-bottom: 10px;
   border-top: 3px solid;
 }
 
-/* Home page */
-
-.footer {
-  padding-top: 100%;
-  font-size: 25px;
-  color: aliceblue;
+.nav-img {
+  height: 80px;
+  display: flex;
+  margin-right: 115px;
+  border: 3px solid;
+  border-radius: 100px;
 }

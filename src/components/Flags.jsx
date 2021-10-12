@@ -5,7 +5,7 @@ export default function Flags() {
     <li key={item.alt}>
       <p className="list-flag">{item.title}</p>
       <p>{item.desc}</p>
-      <p>{item.reso}</p>
+      <p>{item.url}</p>
       <img src={item.src} alt={item.alt} className="img-flag" />
     </li>
   ));
