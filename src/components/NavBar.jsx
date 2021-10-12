@@ -7,7 +7,7 @@ export default function NavBar() {
     <BrowserRouter>
       <div className="link-div">
         <li className="link">
-          <Link className="link" to="/">
+          <Link className="link" to="/homepage">
             Fierce Equality
           </Link>
         </li>
