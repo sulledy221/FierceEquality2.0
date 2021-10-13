@@ -6,7 +6,7 @@ body {
 }
 
 * {
-  background-color: rgb(179, 121, 233);
+  background-color: rgb(0, 0, 0);
   font-family: "Didact Gothic", sans-serif;
   font-size: 30px;
 }
@@ -18,7 +18,7 @@ body {
   margin-right: 75px;
   font-size: 35px;
   font-family: "Righteous", cursive;
-  background-color: rgb(117, 182, 74);
+  background-color: rgb(255, 104, 104);
   list-style-type: none;
   text-decoration: none;
 }
@@ -26,7 +26,7 @@ body {
 .link-div {
   display: flex;
   align-items: center;
-  background-color: rgb(255, 241, 39);
+  background-color: rgb(255, 104, 104);
   height: 90px;
 }
 
@@ -37,13 +37,15 @@ body {
   margin-left: 25px;
   border: 5px solid;
   border-radius: 100px;
+  align-items: center;
 }
 
 .list-flag {
+  color: white;
   list-style-type: none;
-  justify-content: center;
   border-bottom: 3px solid;
   border-top: 3px solid;
+  width: 1000px;
 }
 
 .nav-img {
@@ -52,4 +54,10 @@ body {
   margin-right: 115px;
   border: 3px solid;
   border-radius: 100px;
+}
+
+.resource-link {
+  /* display: flex; */
+  margin-right: 8px;
+  text-decoration: none;
 }

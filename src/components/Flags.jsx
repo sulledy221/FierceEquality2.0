@@ -5,8 +5,12 @@ export default function Flags() {
     <li key={item.alt}>
       <p className="list-flag">{item.title}</p>
       <p>{item.desc}</p>
-      <p>{item.url}</p>
       <img src={item.src} alt={item.alt} className="img-flag" />
+      <div className="resource-link">
+        {item.resources.map((link) => (
+          <a href={link.url}>{link.text}</a>
+        ))}
+      </div>
     </li>
   ));
 
