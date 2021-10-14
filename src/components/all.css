@@ -68,6 +68,5 @@ body {
 .resource-link {
   display: flex;
   margin-right: 45px;
-  /* text-decoration: none; */
   color: grey;
 }

@@ -80,20 +80,12 @@ export const flagData = [
     desc: "What does Demisexual mean? Demisexuality is a sexual orientation in which someone feels sexual attraction only to people with whom they have an emotional bond. What does this flag represent? In the demisexual flag, the black chevron represents asexuality, gray represents gray asexuality and demisexuality, white represents sexuality, and purple represents community.",
     resources: [
       {
-        text: "Resources by state!",
-        url: "https://www.aliforneycenter.org/get-help/resources-by-state/",
+        text: "Demisexuality Resource Center!",
+        url: "http://demisexuality.org/",
       },
       {
-        text: "Resources by state!",
-        url: "https://www.aliforneycenter.org/get-help/resources-by-state/",
-      },
-      {
-        text: "Resources by state!",
-        url: "https://www.aliforneycenter.org/get-help/resources-by-state/",
-      },
-      {
-        text: "Resources by state!",
-        url: "https://www.aliforneycenter.org/get-help/resources-by-state/",
+        text: "Things about Demisexuality!",
+        url: "https://asexualitytrust.org.nz/what-is-asexuality/demisexuality-and-demiromanticism/",
       },
     ],
   },
@@ -104,8 +96,8 @@ export const flagData = [
     desc: "What does Intersex mean? a variety of situations in which a person is born with reproductive or sexual anatomy that doesn't fit the boxes of “female” or “male. What does this flag represent? The circle is described as unbroken and unornamented, symbolizing wholeness and completeness, and their potentialities. They are still fighting for bodily autonomy and genital integrity, and this symbolizes the right to be who and how they want to be.",
     resources: [
       {
-        text: "Resources by state!",
-        url: "https://www.aliforneycenter.org/get-help/resources-by-state/",
+        text: "Intersex Support and Advocacy Groups",
+        url: "https://interactadvocates.org/resources/intersex-organizations/",
       },
       {
         text: "Clothing!",
@@ -116,8 +108,12 @@ export const flagData = [
         url: "https://www.thetrevorproject.org/?gclid=Cj0KCQjw6-SDBhCMARIsAGbI7Ujxab-jZepXcjbUc5hRuK43KcEIMrrpamuzB0m9qbkcHxBYr61EPKoaAlvuEALw_wcB",
       },
       {
-        text: "Resources by state!",
-        url: "https://www.aliforneycenter.org/get-help/resources-by-state/",
+        text: "Support Groups!",
+        url: "https://isna.org/support/",
+      },
+      {
+        text: "Intersex Society!",
+        url: "https://isna.org/",
       },
     ],
   },
@@ -128,32 +124,28 @@ export const flagData = [
     desc: "What does Lesbian mean? A lesbian is someone who identifies as a female and is attracted to other identifying females. What does this flag represent? The stripes, from top to bottom, represent 'gender non-conformity' (dark orange), 'independence' (orange), 'community' (light orange), 'unique relationships to womanhood' (white) , 'serenity and peace' (pink), 'love and sex' (dusty pink), and 'femininity' (dark rose).",
     resources: [
       {
-        text: "Resources by state!",
-        url: "https://www.aliforneycenter.org/get-help/resources-by-state/",
+        text: "Many Websites!",
+        url: "https://everyqueer.com/lesbian-sites/",
       },
       {
-        text: "Resources by state!",
-        url: "https://www.aliforneycenter.org/get-help/resources-by-state/",
+        text: "It Gets Better!",
+        url: "https://itgetsbetter.org/",
       },
       {
-        text: "Resources by state!",
-        url: "https://www.aliforneycenter.org/get-help/resources-by-state/",
-      },
-      {
-        text: "Resources by state!",
-        url: "https://www.aliforneycenter.org/get-help/resources-by-state/",
+        text: "PFLAG!",
+        url: "https://pflag.org/needsupport",
       },
     ],
   },
   {
     src: "/assets/FLAGS/nonbinary.jpeg",
-    title: "Non-binary",
-    alt: "Nonbinary Pride Flag",
+    title: "Non-Binary",
+    alt: "Non-Binary Pride Flag",
     desc: "What does Non-binary mean? Someone who is non-binary might feel like a mix of genders, or like they have no gender at all. What does this flag represent? Yellow represents people whose gender exists outside the binary, purple represents those whose gender is a mixture of – or between – male and female, black represents people who have no gender, and white represents those who embrace many or all genders.",
     resources: [
       {
-        text: "Resources by state!",
-        url: "https://www.aliforneycenter.org/get-help/resources-by-state/",
+        text: "Resources for Non-Binary!",
+        url: "https://www.vpl.ca/guide/trans-non-binary-and-two-spirit-resources/non-binary-resources",
       },
       {
         text: "Clothing!",
@@ -164,8 +156,8 @@ export const flagData = [
         url: "https://www.thetrevorproject.org/?gclid=Cj0KCQjw6-SDBhCMARIsAGbI7Ujxab-jZepXcjbUc5hRuK43KcEIMrrpamuzB0m9qbkcHxBYr61EPKoaAlvuEALw_wcB",
       },
       {
-        text: "Resources by state!",
-        url: "https://www.aliforneycenter.org/get-help/resources-by-state/",
+        text: "More Non-Binary Resources!",
+        url: "https://www.pride.com/activism/2016/5/13/5-incredible-online-resources-and-non-binary-folks",
       },
     ],
   },
@@ -176,20 +168,16 @@ export const flagData = [
     desc: "What does Pansexual mean? Someone who is Pansexual has a sexual and/or romantic attraction to people regardless of gender. What does this flag represent? The pansexual pride flag is used to indicate that pansexuals have sexual attractions and relationships with people of different genders and sexualities.",
     resources: [
       {
-        text: "Resources by state!",
-        url: "https://www.aliforneycenter.org/get-help/resources-by-state/",
+        text: "A Guide to Pansexuality!",
+        url: "https://www.teenvogue.com/story/what-is-pansexuality",
       },
       {
-        text: "Resources by state!",
-        url: "https://www.aliforneycenter.org/get-help/resources-by-state/",
+        text: "Pansexuality 101!",
+        url: "https://everydayfeminism.com/2014/11/pansexuality-101/",
       },
       {
-        text: "Resources by state!",
-        url: "https://www.aliforneycenter.org/get-help/resources-by-state/",
-      },
-      {
-        text: "Resources by state!",
-        url: "https://www.aliforneycenter.org/get-help/resources-by-state/",
+        text: "Support Groups!",
+        url: "https://www.thelgbtqcenter.org/groups",
       },
     ],
   },
@@ -200,20 +188,12 @@ export const flagData = [
     desc: "What does Polysexual mean? As with ALL sexual orientation and gender identity terms, the exact definition may vary based on who is doing the defining and/or self-identifying. What does this flag represent? The polysexual flag has three stripes, pink representing attraction to women, green representing attraction to non-binary people, and blue representing attraction to men.",
     resources: [
       {
-        text: "Resources by state!",
-        url: "https://www.aliforneycenter.org/get-help/resources-by-state/",
+        text: "LGBTA Wiki!",
+        url: "https://lgbta.wikia.org/wiki/Polysexual",
       },
       {
-        text: "Resources by state!",
-        url: "https://www.aliforneycenter.org/get-help/resources-by-state/",
-      },
-      {
-        text: "Resources by state!",
-        url: "https://www.aliforneycenter.org/get-help/resources-by-state/",
-      },
-      {
-        text: "Resources by state!",
-        url: "https://www.aliforneycenter.org/get-help/resources-by-state/",
+        text: "What is polysexuality? And Support!",
+        url: "https://www.webmd.com/sex/what-is-polysexuality",
       },
     ],
   },
@@ -224,20 +204,28 @@ export const flagData = [
     desc: "What does QPOC mean? Initialisms that stand for queer people of color and/or queer trans people of color. What does this flag represent? The flag represents queer people of color (QPOC) and how the black community and the queer community are often woven together, both currently and in the earliest days of the Queer Liberation Movement. Historically, the raised fist has served as an emblem of solidarity and support as well as an expression of unity, strength, defiance, and resistance. The raised fist was added to the six-striped flag and includes various shades of brown and a white stripe to represent the various colors of the 'human rainbow.'",
     resources: [
       {
-        text: "Resources by state!",
-        url: "https://www.aliforneycenter.org/get-help/resources-by-state/",
+        text: "Bridges4Life!",
+        url: "https://bridges4life.org/about-bridges4life/",
       },
       {
-        text: "Resources by state!",
-        url: "https://www.aliforneycenter.org/get-help/resources-by-state/",
+        text: "QTPOC Resources!",
+        url: "https://lgbtq.arizona.edu/qtpoc-resources",
       },
       {
-        text: "Resources by state!",
-        url: "https://www.aliforneycenter.org/get-help/resources-by-state/",
+        text: "Support!",
+        url: "https://www.therapyforqpoc.com/additional-resources",
       },
       {
-        text: "Resources by state!",
-        url: "https://www.aliforneycenter.org/get-help/resources-by-state/",
+        text: "The Keenan-Blogger!",
+        url: "https://www.thekeenanblogger.com/the-keenanblogger/2020/6/5/resources-for-queer-and-trans-people-of-color",
+      },
+      {
+        text: "More Support!",
+        url: "https://lgbtq.yale.edu/resources/qpoc-coalition",
+      },
+      {
+        text: "The Trevor Project!",
+        url: "https://www.thetrevorproject.org/resources/guide/black-and-lgbtq-approaching-intersectional-conversations/",
       },
     ],
   },
@@ -248,20 +236,24 @@ export const flagData = [
     desc: "What does Gay mean? Gay has come to be used as an adjective, and as a noun, referring to the community, practices and cultures associated with homosexuality. What does this flag represent? The rainbow flag is a symbol of lesbian, gay, bisexual, transgender (LGBT) and queer pride and LGBT social movements. Also known as the gay pride flag or LGBT pride flag, the colors reflect the diversity of the LGBT community and the 'spectrum' of human sexuality and gender.",
     resources: [
       {
-        text: "Resources by state!",
-        url: "https://www.aliforneycenter.org/get-help/resources-by-state/",
+        text: "Resources!",
+        url: "https://www.loc.gov/lgbt-pride-month/resources/",
       },
       {
-        text: "Resources by state!",
-        url: "https://www.aliforneycenter.org/get-help/resources-by-state/",
+        text: "Youth Resources!",
+        url: "https://www.cdc.gov/lgbthealth/youth-resources.htm",
       },
       {
-        text: "Resources by state!",
-        url: "https://www.aliforneycenter.org/get-help/resources-by-state/",
+        text: "The Trevor Project!",
+        url: "https://www.thetrevorproject.org/resources/article/understanding-gay-lesbian-identities/",
       },
       {
-        text: "Resources by state!",
-        url: "https://www.aliforneycenter.org/get-help/resources-by-state/",
+        text: "Adult Men Support Group for Gays, Bisexuals and people who are questioning!",
+        url: "https://www.loftgaycenter.org/gay_men_s_peer_support_group",
+      },
+      {
+        text: "The Lambert House!",
+        url: "https://www.lamberthouse.org/giving/?gclid=Cj0KCQjwqp-LBhDQARIsAO0a6aI3I2tRbi4e09GeIR9MQdTH6pzmfO0ZAgSuuyRf-OU7pqwrdseCjKYaAnmCEALw_wcB",
       },
     ],
   },
