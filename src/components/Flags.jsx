@@ -6,9 +6,11 @@ export default function Flags() {
       <p className="list-flag">{item.title}</p>
       <p>{item.desc}</p>
       <img src={item.src} alt={item.alt} className="img-flag" />
-      <div className="resource-link">
+      <div>
         {item.resources.map((link) => (
-          <a href={link.url}>{link.text}</a>
+          <a href={link.url} className="resource-link">
+            {link.text}
+          </a>
         ))}
       </div>
     </li>

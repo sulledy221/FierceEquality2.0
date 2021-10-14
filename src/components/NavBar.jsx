@@ -12,16 +12,6 @@ export default function NavBar() {
             Fierce Equality
           </Link>
         </li>
-        <li className="link">
-          <Link className="link" to="/emergency">
-            Emergency
-          </Link>
-        </li>
-        <li className="link">
-          <Link className="link" to="/about">
-            About
-          </Link>
-        </li>
       </div>
     </BrowserRouter>
   );
