@@ -23,10 +23,6 @@ export const flagData = [
         text: "Mental health Awareness!",
         url: "https://www.pridemind.org/",
       },
-      {
-        text: "The Safe Zone!",
-        url: "https://thesafezoneproject.com/about/what-is-safe-zone/",
-      },
     ],
   },
   {
@@ -268,11 +264,11 @@ export const flagData = [
         url: "https://www.atrh.org/gender-affirming-products",
       },
       {
-        text: "Clothing!",
+        text: "Even More Clothing!",
         url: "https://www.etsy.com/market/transgender_clothing",
       },
       {
-        text: "Clothing!",
+        text: "But wait! There's more!",
         url: "https://www.buzzfeed.com/harperhendrickson/transgender-nonconforming-fashion-brands",
       },
       {
